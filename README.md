@@ -4,6 +4,8 @@
   
 ![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65">
+
 </div>
 
 ---
